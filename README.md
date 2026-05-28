@@ -45,7 +45,13 @@ const y = 200 + 50 * Math.cos(t);
 El proyecto mantiene una estética kawaii y futurista, con colores suaves y elementos amigables para facilitar la comprensión de las matemáticas en un entorno creativo.
 
 ---
-📸 Capturas
+
+## 📸 Capturas
+
+Aquí puedes ver una vista conceptual de **Oryon_forge**:
+
+![Oryon_forge Captura](https://copilot.microsoft.com/th/id/BCO.eeb899fb-6ff8-46ac-8c75-9b42e4fb5146.png)
+
 
 ---
 
