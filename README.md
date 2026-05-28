@@ -1,6 +1,6 @@
-# Orión_forge 🌌✨
+# Oryón_forge 🌌✨
 
-**Orión_forge** es un mini entorno web inspirado en Blender, diseñado para mostrar cómo las **funciones matemáticas** pueden convertirse en animaciones y modelos 3D interactivos.  
+**Oryón_forge** es un mini entorno web inspirado en Blender, diseñado para mostrar cómo las **funciones matemáticas** pueden convertirse en animaciones y modelos 3D interactivos.  
 Este proyecto combina creatividad, estética kawaii y matemáticas aplicadas al modelado digital.
 
 ---
