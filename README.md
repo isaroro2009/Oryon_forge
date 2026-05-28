@@ -22,6 +22,8 @@ Este proyecto combina creatividad, estética kawaii y matemáticas aplicadas al 
 
 3. Ejecuta el archivo index.html en tu navegador.
 
+   ---
+
    🧩 Uso
 
     Abre index.html en tu navegador.
@@ -35,10 +37,29 @@ Ejemplo:
 const x = 300 + 100 * Math.sin(t);
 const y = 200 + 50 * Math.cos(t);
 
+---
+
 🎨 Estilo visual
 
 El proyecto mantiene una estética kawaii y futurista, con colores suaves y elementos amigables para facilitar la comprensión de las matemáticas en un entorno creativo.
 
 ---
+📸 Capturas
+
+---
+
+🧑‍💻 Autora
+
+Proyecto creado por **Isabella Rodríguez** Roque.
+Objetivo: demostrar cómo las funciones matemáticas pueden convertirse en herramientas creativas para el modelado 3D.
+
+---
+
+📜 Licencia
+
+Este proyecto se distribuye bajo la licencia MIT.
+Puedes usarlo, modificarlo y compartirlo libremente, siempre dando crédito a la autora.
+
+
 
 
