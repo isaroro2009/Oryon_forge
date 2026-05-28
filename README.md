@@ -2,6 +2,7 @@
 
 **Oryon_forge** es un mini entorno web inspirado en Blender, diseñado para mostrar cómo las **funciones matemáticas** pueden convertirse en animaciones y modelos 3D interactivos.  
 Este proyecto combina creatividad, estética kawaii y matemáticas aplicadas al modelado digital.
+![Oryon_forge Banner](https://copilot.microsoft.com/th/id/BCO.28045973-5809-423a-bdc7-6d35821d1215.png)
 
 ---
 
